@@ -1,0 +1,67 @@
+{
+  "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28": {
+    "id": "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28",
+    "email": "optimisist@gmail.com",
+    "username": "user"
+  },
+  "174eeb7b-2699-4792-82eb-4bbf440f6457": {
+    "id": "174eeb7b-2699-4792-82eb-4bbf440f6457",
+    "email": "test@mail.com",
+    "username": "Serchio"
+  },
+  "42d34b4d-b064-4f98-a332-261b2b4465fb": {
+    "id": "42d34b4d-b064-4f98-a332-261b2b4465fb",
+    "email": "sdf@sfd.ad",
+    "username": "user3adw"
+  },
+  "f79d0841-2ce6-4c21-ab5c-5bbedce7bb92": {
+    "id": "f79d0841-2ce6-4c21-ab5c-5bbedce7bb92",
+    "email": "test1@mail.com",
+    "username": "user12345"
+  },
+  "9641ffd2-6779-4639-abbe-b68c461129be": {
+    "id": "9641ffd2-6779-4639-abbe-b68c461129be",
+    "email": "testYser@mail.com",
+    "username": "testUser"
+  },
+  "bff22a50-b86a-40dc-ad6c-6402037f1193": {
+    "id": "bff22a50-b86a-40dc-ad6c-6402037f1193",
+    "email": "userTest1@mail.com",
+    "username": "userTest1"
+  },
+  "faef65f8-7170-4835-87f9-c842b6542930": {
+    "id": "faef65f8-7170-4835-87f9-c842b6542930",
+    "email": "userTest2@mail.com",
+    "username": "userTest2"
+  },
+  "be995928-c948-4fe7-b89f-f594b03304c9": {
+    "id": "be995928-c948-4fe7-b89f-f594b03304c9",
+    "email": "userTest3@mail.com",
+    "username": "userTest3"
+  },
+  "2e5ae8cd-a3ce-48e3-a94a-4606d85a0516": {
+    "id": "2e5ae8cd-a3ce-48e3-a94a-4606d85a0516",
+    "email": "userTest4@mail.com",
+    "username": "userTest4"
+  },
+  "0b862fd9-6d40-44a9-99cf-69d6f04b78e1": {
+    "id": "0b862fd9-6d40-44a9-99cf-69d6f04b78e1",
+    "email": "userTest5@mail.com",
+    "username": "userTest5"
+  },
+  "8680ac0c-e008-44cf-941c-376dd3cb8dbd": {
+    "id": "8680ac0c-e008-44cf-941c-376dd3cb8dbd",
+    "email": "userTest6@mail.com",
+    "username": "userTest6"
+  },
+  "9e4b3814-00e3-46f8-963e-917d1e0f8495": {
+    "id": "9e4b3814-00e3-46f8-963e-917d1e0f8495",
+    "email": "userTest7@mail.com",
+    "username": "userTest7"
+  },
+  "69ad6124-2212-4afa-a3fb-9ea4ffead16d": {
+    "id": "69ad6124-2212-4afa-a3fb-9ea4ffead16d",
+    "email": "user-user@mail.com",
+    "username": "user-user"
+  }
+}

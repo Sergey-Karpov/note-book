@@ -1,0 +1,18 @@
+.note-page {
+  margin: 0 auto;
+  padding: 0 120px;
+  width: 100%;
+  max-width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.note-page__form {
+  position: relative;
+  display: grid;
+  grid-template-rows: minmax(221px, auto) 1fr;
+  gap: 16px;
+  height: 100%;
+}
